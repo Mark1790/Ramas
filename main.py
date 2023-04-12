@@ -1,6 +1,8 @@
 from Example import words
 from suma import suma
-
+from subtract import resta
+from multiplication import multi
+from division import divi
 # proyecto parapracticas en ramas
 
 """
