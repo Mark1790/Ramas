@@ -1,4 +1,6 @@
 from Example import words
+from suma import suma
+
 # proyecto parapracticas en ramas
 
 """
